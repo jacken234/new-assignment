@@ -16,3 +16,4 @@ class teachers(students):
 T1 = teachers('Sonny', 'John', 37, 12)
 
 print(T1.fullname())
+print(T1.fullname())
